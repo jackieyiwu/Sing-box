@@ -1,5 +1,5 @@
 
-FORK自F大佬自调config淍试
+FORK自F大佬自调config 测试用
 
 
 bash <(wget -qO- https://raw.githubusercontent.com/jackieyiwu/sing-box/main/sing-box.sh) -f config.conf
